@@ -1,4 +1,4 @@
-## Hi I'm Hwak jae Lee 👋
+## Hi, I'm Hwak jae Lee 👋
 
 
 ## Technologies 
