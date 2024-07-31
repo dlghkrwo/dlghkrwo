@@ -1,4 +1,4 @@
-## Hi, I'm Hwak jae Lee 👋
+## Hi, I'm Hwak Jae Lee 👋
 <a href="https://www.linkedin.com/in/hwak-jae-lee-b68023202/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn Badge">
 
