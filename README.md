@@ -1,4 +1,7 @@
 ## Hi, I'm Hwak jae Lee 👋
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn Badge">
+</a>
 
 
 ## Technologies 
@@ -20,7 +23,6 @@
     <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=FC6D26&labelColor=black" alt="GitLab CI Badge">&nbsp;
     <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=black" alt="JIRA Badge">
 </div>
-
 
 
 
