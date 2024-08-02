@@ -31,8 +31,8 @@
     <a href="https://github.com/dlghkrwo/selenium_2024" target="_blank">
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black" alt="Selenium Badge">
     </a>&nbsp;
-    <a href="https://github.com/dlghkrwo/React-crud" target="_blank">
-        <img src="https://img.shields.io/badge/React%20CRUD-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black" alt="React Badge">
+  <a href="https://github.com/dlghkrwo/React-crud" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black" alt="React Badge">
     </a>&nbsp;
 </div>
 
