@@ -9,10 +9,14 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black" alt="HTML5 Badge">
     </a>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" alt="CSS3 Badge">&nbsp;
-    <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black" alt="Python Badge">&nbsp;
+ <a href="https://github.com/dlghkrwo/TDD" target="_blank">
+        <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black" alt="Python Badge">
+    </a>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7E500?style=for-the-badge&logo=javascript&logoColor=F7E500&labelColor=black" alt="JavaScript Badge">&nbsp;
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=black" alt="Node.js Badge">&nbsp;
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black" alt="Docker Badge">&nbsp;
+    <a href="https://github.com/dlghkrwo/docker" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black" alt="Docker Badge">
+    </a>&nbsp;
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=black" alt="Jenkins Badge">&nbsp;
     <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=black" alt="JUnit Badge">&nbsp;
     <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=23D96C&labelColor=black" alt="Cucumber Badge">&nbsp;
