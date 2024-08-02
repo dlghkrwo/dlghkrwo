@@ -23,8 +23,9 @@
     <a href="https://github.com/dlghkrwo/Cypress" target="_blank">
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black" alt="Cypress Badge">
     </a>&nbsp;
-    <a href="https://github.com/dlghkrwo/git-practice" target="_blank">
-        <img src="https://img.shields.io/badge/Git%20Practice-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black" alt="Git Badge">
+   <a href="https://github.com/dlghkrwo/git-practice" target="_blank">
+    <img src="https://img.shields.io/badge/Git%20Badge-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black" alt="Git Badge">
+</a>&nbsp;
     </a>&nbsp;
     <a href="https://github.com/dlghkrwo/selenium_2024" target="_blank">
         <img src="https://img.shields.io/badge/Selenium%202024-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black" alt="Selenium Badge">
