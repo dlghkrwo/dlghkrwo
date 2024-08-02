@@ -24,8 +24,19 @@
     <img src="https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=41BDF5&labelColor=black" alt="Appium Badge">&nbsp;
     <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=FC6D26&labelColor=black" alt="GitLab CI Badge">&nbsp;
     <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=black" alt="JIRA Badge">&nbsp;
+    <a href="https://github.com/dlghkrwo/Cypress" target="_blank">
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black" alt="Cypress Badge">
+    </a>&nbsp;
+    <a href="https://github.com/dlghkrwo/git-practice" target="_blank">
+        <img src="https://img.shields.io/badge/Git%20Practice-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black" alt="Git Practice Badge">
+    </a>&nbsp;
+    <a href="https://github.com/dlghkrwo/selenium_2024" target="_blank">
+        <img src="https://img.shields.io/badge/Selenium%202024-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black" alt="Selenium 2024 Badge">
+    </a>&nbsp;
+    <a href="https://github.com/dlghkrwo/React-crud" target="_blank">
+        <img src="https://img.shields.io/badge/React%20CRUD-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black" alt="React CRUD Badge">
+    </a>&nbsp;
 </div>
-
 
 
 
