@@ -8,13 +8,10 @@
     <a href="https://github.com/dlghkrwo/musicPlayer" target="_blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black" alt="HTML5 Badge">
     </a>&nbsp;
-    <div style="text-align: right;">
     <a href="https://github.com/dlghkrwo/C-book-management-system" target="_blank">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=black" alt="C++ Badge">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=black" alt="C++ Badge">
     </a>&nbsp;
-</div>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" alt="CSS3 Badge">&nbsp;
- <a href="https://github.com/dlghkrwo/TDD" target="_blank">
+    <a href="https://github.com/dlghkrwo/TDD" target="_blank">
         <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black" alt="Python Badge">
     </a>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7E500?style=for-the-badge&logo=javascript&logoColor=F7E500&labelColor=black" alt="JavaScript Badge">&nbsp;
@@ -32,19 +29,16 @@
     <a href="https://github.com/dlghkrwo/Cypress" target="_blank">
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black" alt="Cypress Badge">
     </a>&nbsp;
-   <a href="https://github.com/dlghkrwo/git-practice" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black" alt="Git Badge">
-</a>&nbsp;
-</a>&nbsp;
+    <a href="https://github.com/dlghkrwo/git-practice" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black" alt="Git Badge">
     </a>&nbsp;
     <a href="https://github.com/dlghkrwo/selenium_2024" target="_blank">
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=black" alt="Selenium Badge">
     </a>&nbsp;
-  <a href="https://github.com/dlghkrwo/React-crud" target="_blank">
+    <a href="https://github.com/dlghkrwo/React-crud" target="_blank">
         <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black" alt="React Badge">
     </a>&nbsp;
 </div>
-
 
 
 
