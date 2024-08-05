@@ -40,9 +40,6 @@
     </a>&nbsp;
 </div>
 <div style="text-align: right;">
-    <a href="https://github.com/dlghkrwo/musicPlayer" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black" alt="HTML5 Badge">
-    </a>&nbsp;
     <a href="https://github.com/dlghkrwo/C-book-management-system" target="_blank">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=black" alt="C++ Badge">
     </a>&nbsp;
